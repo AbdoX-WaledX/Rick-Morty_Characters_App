@@ -25,7 +25,7 @@ The application fetches character data from the [Rick and Morty API](https://ric
 
 ## :iphone: Screens
 
-### :house: Home Screen
+
 
 <div style="display: flex; justify-content: space-between; flex-wrap: nowrap;">
   <img src="https://github.com/user-attachments/assets/425a1cca-11ff-4a47-9137-bd9f5cd93a0f" alt="Screenshot 1" style="width: 24%; height: auto;">
