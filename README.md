@@ -27,11 +27,11 @@ The application fetches character data from the [Rick and Morty API](https://ric
 
 ### :house: Home Screen
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/425a1cca-11ff-4a47-9137-bd9f5cd93a0f" alt="Screenshot 1" style="max-width: 24%; height: auto;">
-  <img src="https://github.com/user-attachments/assets/2d58d581-48af-487d-8d85-886f3b936b15" alt="Screenshot 2" style="max-width: 24%; height: auto;">
-  <img src="https://github.com/user-attachments/assets/220fa46b-0768-4ffe-8c92-a4cf0bf398bc" alt="Screenshot 3" style="max-width: 24%; height: auto;">
-  <img src="https://github.com/user-attachments/assets/9b288e31-6498-4dc2-99b2-22c12eef20e6" alt="Screenshot 4" style="max-width: 24%; height: auto;">
+<div style="display: flex; justify-content: space-between; flex-wrap: nowrap;">
+  <img src="https://github.com/user-attachments/assets/425a1cca-11ff-4a47-9137-bd9f5cd93a0f" alt="Screenshot 1" style="width: 24%; height: auto;">
+  <img src="https://github.com/user-attachments/assets/2d58d581-48af-487d-8d85-886f3b936b15" alt="Screenshot 2" style="width: 24%; height: auto;">
+  <img src="https://github.com/user-attachments/assets/220fa46b-0768-4ffe-8c92-a4cf0bf398bc" alt="Screenshot 3" style="width: 24%; height: auto;">
+  <img src="https://github.com/user-attachments/assets/9b288e31-6498-4dc2-99b2-22c12eef20e6" alt="Screenshot 4" style="width: 24%; height: auto;">
 </div>
 
 ## Installation
