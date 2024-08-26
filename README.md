@@ -28,10 +28,10 @@ The application fetches character data from the [Rick and Morty API](https://ric
 ### :house: Home Screen
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/user-attachments/assets/425a1cca-11ff-4a47-9137-bd9f5cd93a0f" alt="Screenshot 1" width="200">
-  <img src="https://github.com/user-attachments/assets/2d58d581-48af-487d-8d85-886f3b936b15" alt="Screenshot 2" width="200">
-  <img src="https://github.com/user-attachments/assets/220fa46b-0768-4ffe-8c92-a4cf0bf398bc" alt="Screenshot 3" width="200">
-  <img src="https://github.com/user-attachments/assets/9b288e31-6498-4dc2-99b2-22c12eef20e6" alt="Screenshot 4" width="200">
+  <img src="https://github.com/user-attachments/assets/425a1cca-11ff-4a47-9137-bd9f5cd93a0f" alt="Screenshot 1" width="250">
+  <img src="https://github.com/user-attachments/assets/2d58d581-48af-487d-8d85-886f3b936b15" alt="Screenshot 2" width="250">
+  <img src="https://github.com/user-attachments/assets/220fa46b-0768-4ffe-8c92-a4cf0bf398bc" alt="Screenshot 3" width="250">
+  <img src="https://github.com/user-attachments/assets/9b288e31-6498-4dc2-99b2-22c12eef20e6" alt="Screenshot 4" width="250">
 </div>
 
 ## Installation
