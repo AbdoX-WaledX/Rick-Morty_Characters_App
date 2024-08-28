@@ -20,7 +20,7 @@ The application fetches character data from the [Rick and Morty API](https://ric
 
 - **Flutter**: For building the cross-platform mobile application.
 - **Bloc**: For state management, providing a predictable state container.
-- **HTTP**: For making API requests.
+- **Dio**: For making API requests.
 - **Flutter Offline**: To manage network connectivity.
 
 ## :iphone: Screens
